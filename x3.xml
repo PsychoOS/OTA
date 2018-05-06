@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ROM>
+  <RomName>psycho_x3</RomName>
+  <VersionName>DUMMY</VersionName>
+  <VersionNumber type="integer">20170130</VersionNumber>
+  <DirectUrl>NULL</DirectUrl>
+  <HttpUrl>NULL</HttpUrl>
+  <Android>Dummy</Android>
+  <CheckMD5>9b3c0e916d4d10ebcd262601475244e6</CheckMD5>
+  <FileSize type="integer">0</FileSize>
+  <Changelog>
+    *Dummy File
+  </Changelog>
+</ROM>
