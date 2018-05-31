@@ -1,14 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>psycho_x3</RomName>
-  <VersionName>DUMMY</VersionName>
-  <VersionNumber type="integer">20170130</VersionNumber>
-  <DirectUrl>NULL</DirectUrl>
-  <HttpUrl>NULL</HttpUrl>
-  <Android>Dummy</Android>
-  <CheckMD5>9b3c0e916d4d10ebcd262601475244e6</CheckMD5>
-  <FileSize type="integer">0</FileSize>
+  <VersionName>0.2 Beta</VersionName>
+  <VersionNumber type="integer">20180531</VersionNumber>
+  <DirectUrl nil="true" />
+  <HttpUrl>https://drive.google.com/open?id=1R5EW5nhJ-d6QtcrXpNbZ0NWaf1nMLUE_</HttpUrl>
+  <Android>7.1.2</Android>
+  <CheckMD5>78a804212db85e55e8238f84270f60a0</CheckMD5>
+  <FileSize type="integer">524613062</FileSize>
   <Changelog>
-    *Dummy File
+    * Some Theme Fixes.
+    * Display Settings Crashing, can access Options from Search Bar though.
+      --> Will fix in next update.
+    * Fixed fingerprint.
+    * Fixed Boost.
+    * Added Android P animations.
+    * Added 3 finger screenshot gesture.
+    * Added Pocket mode.
+    * Added Accidental touch protection.
+    * Per app Sensor Block.
+    * Lockscreen PIN quick unlock.
+    * Few more things I don't remember.
   </Changelog>
 </ROM>
