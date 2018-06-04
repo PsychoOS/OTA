@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>psycho_x3</RomName>
-  <VersionName>0.2 Beta</VersionName>
-  <VersionNumber type="integer">20180531</VersionNumber>
+  <VersionName>0.3 Beta</VersionName>
+  <VersionNumber type="integer">20180604</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://drive.google.com/open?id=1R5EW5nhJ-d6QtcrXpNbZ0NWaf1nMLUE_</HttpUrl>
+  <HttpUrl>https://drive.google.com/open?id=1PE2gUE-qE5-tBI2-efAbb5j_99TfF3mi</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>78a804212db85e55e8238f84270f60a0</CheckMD5>
-  <FileSize type="integer">524613062</FileSize>
+  <CheckMD5>7e2a071ffefedda765184778ea811ed1</CheckMD5>
+  <FileSize type="integer">525025723</FileSize>
   <Changelog>
-    * Some Theme Fixes.
-    * Display Settings Crashing, can access Options from Search Bar though.
-      --> Will fix in next update.
-    * Fixed fingerprint.
-    * Fixed Boost.
-    * Added Android P animations.
-    * Added 3 finger screenshot gesture.
-    * Added Pocket mode.
-    * Added Accidental touch protection.
-    * Per app Sensor Block.
-    * Lockscreen PIN quick unlock.
-    * Few more things I don't remember.
+    Changes in this build [04 June 2018]
+    * [Fixed] Crashes in customisations.
+    * [Improved] Settings Theme.
+    * [New] Android P Styled StatusBar Icons.
+    * [Toggle] Added Android P animations.
+    * [Toggle] Added 3 finger screenshot gesture.
+    * [Toggle] Added Pocket mode.
+    * [Toggle] Added Accidental touch protection.
+    * [Toggle] Per app Sensor Block.
+    * [Toggle] Added One tap toggle in quick settings.
+    * Some more under the hood changes.
   </Changelog>
 </ROM>
