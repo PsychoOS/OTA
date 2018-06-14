@@ -1,24 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ROM>
   <RomName>psycho_x3</RomName>
-  <VersionName>0.3 Beta</VersionName>
-  <VersionNumber type="integer">20180604</VersionNumber>
+  <VersionName>0.3.x Beta</VersionName>
+  <VersionNumber type="integer">20180614</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://drive.google.com/open?id=1PE2gUE-qE5-tBI2-efAbb5j_99TfF3mi</HttpUrl>
+  <HttpUrl>https://drive.google.com/open?id=1ptr1HKVpBX-ZDSqpq5-Fj9aMKi4DVlUw</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>7e2a071ffefedda765184778ea811ed1</CheckMD5>
-  <FileSize type="integer">525025723</FileSize>
+  <CheckMD5>8b4817996b6dc57cd7994ae0e0861ff1</CheckMD5>
+  <FileSize type="integer">526241686</FileSize>
   <Changelog>
-    Changes in this build [04 June 2018]
-    * [Fixed] Crashes in customisations.
-    * [Improved] Settings Theme.
-    * [New] Android P Styled StatusBar Icons.
-    * [Toggle] Added Android P animations.
-    * [Toggle] Added 3 finger screenshot gesture.
-    * [Toggle] Added Pocket mode.
-    * [Toggle] Added Accidental touch protection.
-    * [Toggle] Per app Sensor Block.
-    * [Toggle] Added One tap toggle in quick settings.
+    * Changes in this build [14 June 2018]
+    * ====================================
+    * A Clean Flash is recommended as there are lot of Logic changes to framework.
+    * This update won't increment the Version number of ROM.
+    * you can get the MD5sum from the website.
+    * ====================================
+    * [Fixed] Random Lockscreen freezes should be gone now.
+    * [Improved] About Device Page.
+    * [Improved] Network Speed Indicator, is now in statusbar settings.
+    * [New] Added hints for easter egg in Settings, 'cause no one discovered it yet.:o
+    * [New] One touch quick settings tile add/remove.
+    * [New] Android P DP3 Fonts And Emojis.
+    * [New] Rounded of those pointy rectangular Pop-Ups for more P-ish look.
+    * [New] Backported Oreo's way of SystemUI Handeling for most of the Elements, won't be seen much at this stage.
+    * [New] Added Feedback form to reach directly to me with suggestions. :p
+    * [Removed] Removed some of smoothness tweaks as they were causing some major bugs.
+    * [Update] Merged June Security Patches.
     * Some more under the hood changes.
   </Changelog>
 </ROM>
