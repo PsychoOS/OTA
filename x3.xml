@@ -2,30 +2,22 @@
 <ROM>
   <RomName>psycho_x3</RomName>
   <VersionName>0.3.x Beta</VersionName>
-  <VersionNumber type="integer">20180614</VersionNumber>
+  <VersionNumber type="integer">20180805</VersionNumber>
   <DirectUrl nil="true" />
-  <HttpUrl>https://drive.google.com/open?id=1ptr1HKVpBX-ZDSqpq5-Fj9aMKi4DVlUw</HttpUrl>
+  <HttpUrl>https://drive.google.com/open?id=1rgaNFFxuHOo8eV-NdChOPrWuaOhjkjJf</HttpUrl>
   <Android>7.1.2</Android>
-  <CheckMD5>8b4817996b6dc57cd7994ae0e0861ff1</CheckMD5>
-  <FileSize type="integer">526241686</FileSize>
+  <CheckMD5>08dd1bd5e87211e76636667af8e9e11f</CheckMD5>
+  <FileSize type="integer">523076541</FileSize>
   <Changelog>
-    * Changes in this build [14 June 2018]
-    * ====================================
-    * A Clean Flash is recommended as there are lot of Logic changes to framework.
-    * This update won't increment the Version number of ROM.
-    * you can get the MD5sum from the website.
+    * Changes in this build [05 August 2018]
     * ====================================
     * [Fixed] Random Lockscreen freezes should be gone now.
+    * [Fixed] 1080p60fps playback in youtube.
     * [Improved] About Device Page.
-    * [Improved] Network Speed Indicator, is now in statusbar settings.
-    * [New] Added hints for easter egg in Settings, 'cause no one discovered it yet.:o
-    * [New] One touch quick settings tile add/remove.
-    * [New] Android P DP3 Fonts And Emojis.
-    * [New] Rounded of those pointy rectangular Pop-Ups for more P-ish look.
-    * [New] Backported Oreo's way of SystemUI Handeling for most of the Elements, won't be seen much at this stage.
-    * [New] Added Feedback form to reach directly to me with suggestions. :p
-    * [Removed] Removed some of smoothness tweaks as they were causing some major bugs.
-    * [Update] Merged June Security Patches.
+    * [New] Ambient display is now configurable.
+    * [Update] Merged July Security Patches.
+    * [Update] Merged LineageOS Latest Changes.
+    * [Update] Updated ROM Version to 0.35 Beta.
     * Some more under the hood changes.
   </Changelog>
 </ROM>
